@@ -31,8 +31,26 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 ### Order 64
 
+- pending
+
 ### Order 100
+
+- pending
 
 ### Order 144
 
+- Regular type
+- Number of matrices: 4 [*link*](./Hadamard_matrices/H_n144_eigen12_Regular_N4.txt)
+- Number of SD bent seqs: 20 or 924 [*link*]()
+- Refs: 
+  - D. Crnković, A Construction of Some Symmetric (144,66,30) Designs, J. Appl. Algebra Discrete Struct. 5, No. 1 (2007), 33-39.
+  - M.-O. Pavčević, Symmetric designs of Menon series admitting an action of Frobenius groups, Glas. Mat., III. Ser. 31 (1996), 209-223.
+
+
 ### Order 196
+
+- Regular type
+- Number of matrices: 4 [*link*](./Hadamard_matrices/H_n196_eigen14_Regular_N4.txt)
+- Number of SD bent seqs: 6864 or 12870 [*link*]()
+- Refs: 
+  - D. Crnković, A Construction of Some Symmetric Designs with Parameters (196,91,42), Int. Math. Forum 2, No. 61 (2007), 3021-3026.
