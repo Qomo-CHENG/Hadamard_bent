@@ -6,7 +6,7 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 ## Hadamard matrices at different orders
 
-*SD for self-dual; seqs for sequences; Refs for references
+***Note that: SD for self-dual; seqs for sequences; Refs for references**
 
 ### Order 16
 
