@@ -1,0 +1,31 @@
+/*
+* Hadamard matrix with n = 64:
+* - Regular type by Switching
+* - number of matrices: N = 1
+*/
+
+Length of Hadamard matrix:  64
+Num. of matrices in total:  1
+
+========================= For  1 -th Matrix =========================
+
+IsSymmetric?  false
+Eigenvalues:  { <-8, 1>, <8, 1> }
+Eigenspace attached to  8 : 
+RSpace of degree 64, dimension 1 over Integer Ring
+Echelonized basis:
+(1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1)
+
+========================= Linear Algebra method =========================
+Solutions by linear algebra: 
+Number of solutions: #Z_all =  2
+Solutions: Z_all =  [
+    [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+        1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],
+
+    [-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+        -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+        -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+]
+Checked  1 matrices!
