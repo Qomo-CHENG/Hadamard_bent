@@ -1,8 +1,10 @@
 # Self-dual bent sequences in Hadamard matrices
 
-This repo is created for presenting various Hadamard matrices and corresponding numerical solutions of self-dual bent seuqnces. It is the open-source of the paper `Self-dual Hadamard bent sequences`, which is submitted to *IEEE Transactions on Information Theory*.
+This repo is created for presenting various Hadamard matrices and corresponding numerical solutions of self-dual bent seuqnces. It is the open-source of the paper `Self-dual Hadamard bent sequences`, which is submitted to *IEEE Transactions on XXX*.
 
 - [x] Special thanks to Patrick Solé and Dean Crnković for constructing and sharing those Hadamard matrices.
+
+<br/>
 
 ## Hadamard matrices at different orders
 
@@ -54,3 +56,12 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 - Number of SD bent seqs: 6864 or 12870 [*link*]()
 - Refs: 
   - D. Crnković, A Construction of Some Symmetric Designs with Parameters (196,91,42), Int. Math. Forum 2, No. 61 (2007), 3021-3026.
+
+
+<br/>
+
+## Copyright and License
+
+This repository is placed into the public domain. Anyone can redistribute it and/or modify it under the terms of the [GNU General Public License version 3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Copyright (C) 2022. All Rights Reserved to Authors.
