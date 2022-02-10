@@ -53,7 +53,7 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 - Regular type
 - Number of matrices: 4 [*link*](./Hadamard_matrices/H_n196_eigen14_Regular_N4.txt)
-- Number of SD bent seqs: 6864 or 12870 [*link*]()
+- Number of SD bent seqs: 6864 or 12870 [*link*](./bent_sequences/sd_bent_n196_eigen14_Regular_N4.log)
 - Refs: 
   - D. Crnković, A Construction of Some Symmetric Designs with Parameters (196,91,42), Int. Math. Forum 2, No. 61 (2007), 3021-3026.
 
