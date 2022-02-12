@@ -1,6 +1,6 @@
 # Self-dual bent sequences in Hadamard matrices
 
-This repo is created for presenting various Hadamard matrices and corresponding numerical solutions of self-dual bent seuqnces. It is the open-source of the paper `Self-dual Hadamard bent sequences`, which is submitted to *IEEE Transactions on XXX*.
+This repo is created for presenting various Hadamard matrices and corresponding numerical solutions of self-dual bent seuqnces. It is the open-source of the paper `Self-dual Hadamard bent sequences`, which has been submitted to *IEEE Transactions on XXX*.
 
 - [x] Special thanks to Patrick Solé and Dean Crnković for constructing and sharing those Hadamard matrices.
 
@@ -39,9 +39,17 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 ### Order 64
 
-- pending
+- Regular type
+  - Number of matrices: 16 [*link.*](./Hadamard_matrices/H_n64_eigen8_Regular_N16.txt)
+  - Number of SD bent seqs: 2, 4, 6, 12, or 620  [*link.*](./bent_sequences/sd_bent_n64_eigen8_Regular_N16.log)
+  - Refs: 
+    - D. Crnković, and M.-O. Pavčević, "Some new symmetric designs with parameters (64, 28, 12)," Discrete Math., vol. 237, no. 1-3, pp. 109-118, June 2001.
 
-
+- Regular type by switching
+  - Number of matrices: 1 [*link.*](./Hadamard_matrices/H_n64_eigen8_Regular_by_Switch_N1.txt)
+  - Number of SD bent seqs: 2  [*link.*](./bent_sequences/sd_bent_n64_eigen8_Regular_by_Switch_N1.log)
+  - Refs: 
+    - D. Crnković, and M.-O. Pavčević, "Some new symmetric designs with parameters (64, 28, 12)," Discrete Math., vol. 237, no. 1-3, pp. 109-118, June 2001.
 
 ### Order 100
 
@@ -67,7 +75,7 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 - Bush type
 - Number of matrices: 4 [*link.*](./Hadamard_matrices/H_n144_eigen12_Bush_N4.txt)
-- Number of SD bent seqs: 20, 924 or 1052 [*link.*](./bent_sequences/sd_bent_n144_eigen12_Bush_N4.log)
+- Number of SD bent seqs: 20, 924, or 1052 [*link.*](./bent_sequences/sd_bent_n144_eigen12_Bush_N4.log)
 - Refs: 
   - D. Crnković, "A construction of some symmetric (144; 66; 30) designs," J. Appl. Algebra Discrete Struct., vol. 5, no. 1, pp. 33-39, 2007.
   - M.-O. Pavčević, "Symmetric designs of Menon series admitting an action of Frobenius groups," Glas. Mat., III. Ser., vol. 31, no. 2, pp. 209-223, Dec. 1996. [Online]. Available: http://books.google.com/books?id=wdgsTPYo92YC&pg=PA209
