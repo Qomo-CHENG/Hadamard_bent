@@ -21,7 +21,8 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 - Sylvester type
 - Number of matrices: 1 [*link.*](./Hadamard_matrices/H_n16_eigen4_Sylvester_N1.txt)
 - Number of SD bent seqs: 140 [*link.*](./bent_sequences/sd_bent_n16_eigen4_Sylvester_N1.log)
-- Refs: the first Hadamard matrix in [*Magma*](http://magma.maths.usyd.edu.au/magma/)
+- Refs: 
+  - The first Hadamard matrix of order 16 in [*Magma*](http://magma.maths.usyd.edu.au/magma/)
 
 ### Order 36
 
@@ -29,8 +30,8 @@ This repo is created for presenting various Hadamard matrices and corresponding 
   - Number of matrices: 29 [*link.*](./Hadamard_matrices/H_n36_eigen6_Bush_N29.txt)
   - Number of SD bent seqs: 64 [*link.*](./bent_sequences/sd_bent_n36_eigen6_Bush_N29.log)
   - Refs: 
-    - Z. Janko, "The existence of a Bush-type Hadamard matrix of order 36 and two new infinite classes of symmetric designs," J. Comb. Theory, Ser. A, vol. 95, no. 2, pp. 360-364, Aug. 2001.
-    - Z. Janko and H. Kharaghani, "A block negacyclic Bush-type Hadamard matrix and two strongly regular graphs," J. Comb. Theory, Ser. A, vol. 98, no. 1, pp. 118-126, Apr. 2002, DOI: 10.1006/jcta.2001.3231.
+    - Z. Janko, "The existence of a Bush-type Hadamard matrix of order 36 and two new infinite classes of symmetric designs," *J. Comb. Theory, Ser. A*, vol. 95, no. 2, pp. 360-364, Aug. 2001.
+    - Z. Janko and H. Kharaghani, "A block negacyclic Bush-type Hadamard matrix and two strongly regular graphs," *J. Comb. Theory, Ser. A*, vol. 98, no. 1, pp. 118-126, Apr. 2002, DOI: 10.1006/jcta.2001.3231.
 - Paley Type
   - Number of matrices: 1 [*link.*](./Hadamard_matrices/H_n36_eigen6_Paley_N1.txt)
   - Number of SD bent seqs: 204 [*link.*](./bent_sequences/sd_bent_n36_eigen6_Paley_N1.log)
