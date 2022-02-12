@@ -41,9 +41,9 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 ### Order 144
 
-- Regular type
-- Number of matrices: 4 [*link*](./Hadamard_matrices/H_n144_eigen12_Regular_N4.txt)
-- Number of SD bent seqs: 20 or 924 [*link*]()
+- Bush type
+- Number of matrices: 4 [*link*](./Hadamard_matrices/H_n144_eigen12_Bush_N4.txt)
+- Number of SD bent seqs: 20, 924 or 1052 [*link*](./bent_sequences/sd_bent_n144_eigen12_Bush_N4.log)
 - Refs: 
   - D. Crnković, A Construction of Some Symmetric (144,66,30) Designs, J. Appl. Algebra Discrete Struct. 5, No. 1 (2007), 33-39.
   - M.-O. Pavčević, Symmetric designs of Menon series admitting an action of Frobenius groups, Glas. Mat., III. Ser. 31 (1996), 209-223.
