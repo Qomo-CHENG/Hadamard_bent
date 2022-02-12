@@ -8,7 +8,13 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 ## Hadamard matrices at different orders
 
-***Note that: SD for self-dual; seqs for sequences; Refs for references**
+***Note 1: SD for self-dual; seqs for sequences; Refs for references**
+
+***Note 2: All Hadamard matrices are under directory: [*Hadamard_matrices.*](./Hadamard_matrices)**
+
+***Note 3: All SD bent sequences are under directory: [*bent_sequences.*](./bent_sequences)**
+
+<br/>
 
 ### Order 16
 
@@ -63,8 +69,8 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 - Number of matrices: 4 [*link.*](./Hadamard_matrices/H_n144_eigen12_Bush_N4.txt)
 - Number of SD bent seqs: 20, 924 or 1052 [*link.*](./bent_sequences/sd_bent_n144_eigen12_Bush_N4.log)
 - Refs: 
-  - D. Crnković, A Construction of Some Symmetric (144,66,30) Designs, J. Appl. Algebra Discrete Struct. 5, No. 1 (2007), 33-39.
-  - M.-O. Pavčević, Symmetric designs of Menon series admitting an action of Frobenius groups, Glas. Mat., III. Ser. 31 (1996), 209-223.
+  - D. Crnković, "A construction of some symmetric (144; 66; 30) designs," J. Appl. Algebra Discrete Struct., vol. 5, no. 1, pp. 33-39, 2007.
+  - M.-O. Pavčević, "Symmetric designs of Menon series admitting an action of Frobenius groups," Glas. Mat., III. Ser., vol. 31, no. 2, pp. 209-223, Dec. 1996. [Online]. Available: http://books.google.com/books?id=wdgsTPYo92YC&pg=PA209
 
 
 ### Order 196
@@ -73,8 +79,7 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 - Number of matrices: 4 [*link.*](./Hadamard_matrices/H_n196_eigen14_Regular_N4.txt)
 - Number of SD bent seqs: 6864 or 12870 [*link.*](./bent_sequences/sd_bent_n196_eigen14_Regular_N4.log)
 - Refs: 
-  - D. Crnković, A Construction of Some Symmetric Designs with Parameters (196,91,42), Int. Math. Forum 2, No. 61 (2007), 3021-3026.
-
+  - D. Crnković, "A construction of some symmetric designs with parameters (196; 91; 42)," Int. Math. Forum, vol. 2, no. 61-64, pp. 3021-3026, 2007.
 
 <br/>
 
