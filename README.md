@@ -68,7 +68,7 @@ This repo is created for presenting various Hadamard matrices and corresponding 
 
 - Regular Menon type
   - Number of matrices: 4 [*link.*](./Hadamard_matrices/H_n100_eigen10_Regular_Menon_N4.txt)
-  - Number of SD bent seqs: 12  [*link.*](./bent_sequences/sd_bent_n100_eigen10_Regular_Menon_N4.log)
+  - Number of SD bent seqs: 924  [*link.*](./bent_sequences/sd_bent_n100_eigen10_Regular_Menon_N4.log)
   - Refs: 
     - D. Crnković, R. Egan, and A. Švob, "Orbit matrices of Hadamard matrices and related codes," *Discrete Math.*, vol. 341, no. 5, pp. 1199-1209, May 2018.
 
