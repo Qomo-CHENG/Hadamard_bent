@@ -2,7 +2,7 @@
 
 This repo is created for presenting various Hadamard matrices and corresponding numerical solutions of self-dual bent seuqnces. It is the open-source of the paper `Self-dual Hadamard bent sequences`, which has been submitted to *IEEE Transactions on XXX*.
 
-- [x] Special thanks to Patrick Solé and Dean Crnković for constructing and sharing those Hadamard matrices.
+- [x] Special thanks to Prof. Patrick Solé and Prof. Dean Crnković for constructing and sharing those Hadamard matrices.
 
 <br/>
 
